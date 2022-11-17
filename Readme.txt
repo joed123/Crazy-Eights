@@ -1,2 +1,2 @@
-This program is a game of crazy eighrs that the player plays against the computer. 
+This program is a game of crazy eights that the player plays against the computer. 
 It is written in c++
